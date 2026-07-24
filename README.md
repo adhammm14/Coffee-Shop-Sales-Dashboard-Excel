@@ -10,17 +10,11 @@ PivotTables, PivotCharts, and slicers to explore sales by location, product, tim
 
 ## Dashboard
 
-<!--
-  ADD A SCREENSHOT HERE. GitHub shows .xlsx only as a downloadable file, so
-  without an image nobody sees the dashboard without opening Excel.
+![Coffee Shop Sales Dashboard — revenue trend, day and hour patterns](dashboard-1.png)
 
-  1. Open the workbook, go to the Dashboard tab.
-  2. Screenshot it (Cmd+Shift+4 on Mac).
-  3. Save it as dashboard.png next to this README.
-  4. Uncomment the line below.
--->
+![Coffee Shop Sales Dashboard — product category and top 15 products](dashboard-2.png)
 
-<!-- ![Coffee Shop Sales Dashboard](dashboard.png) -->
+*Interactive: the Store Location slicer filters every chart. Views above are filtered to Astoria.*
 
 ---
 
